@@ -24,3 +24,13 @@ A mobile Android application that calculates dividends from unit trust investmen
 ## 📺 Demo Video
 [![Watch the demo on YouTube](https://img.youtube.com/vi/ivOswgTDqus/0.jpg)](https://www.youtube.com/watch?v=ivOswgTDqus)
 
+## 📄 Screenshots
+### 🏠 Home Screen
+![Home Screen](images/homepage.jpeg)
+
+### 📊 Result
+![Result Screen](images/resultpage.jpeg)
+
+### ℹ️ About Page
+![About Page](images/aboutpage.jpeg)
+
