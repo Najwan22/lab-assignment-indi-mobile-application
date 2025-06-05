@@ -26,11 +26,11 @@ A mobile Android application that calculates dividends from unit trust investmen
 
 ## 📄 Screenshots
 ### 🏠 Home Screen
-![Home Screen](images/homepage.jpg)
+![Home Screen](images/homepage.jpeg)
 
 ### 📊 Result
-![Result Screen](images/resultpage.jpg)
+![Result Screen](images/resultpage.jpeg)
 
 ### ℹ️ About Page
-![About Page](images/aboutpage.jpg)
+![About Page](images/aboutpage.jpeg)
 
