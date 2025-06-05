@@ -29,7 +29,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="About Dividend Calculator"
+                    android:text="About Author"
                     android:textSize="28sp"
                     android:textStyle="bold"
                     android:textColor="@color/purple_500"
