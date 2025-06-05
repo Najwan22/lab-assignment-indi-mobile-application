@@ -19,7 +19,7 @@ A mobile Android application that calculates dividends from unit trust investmen
 - Android Studio (Java + XML)
 
 ### 📦 Download APK
-- [unit_trust_dividend.apk](./unit_trust_dividend.apk)
+- [unit_trust_dividend.apk](https://github.com/Najwan22/lab-assignment-indi-mobile-application/releases/download/v1.0.0/unit_trust_dividend.apk)
 
 ## 📺 Demo Video
 [![Watch the demo on YouTube](https://img.youtube.com/vi/ivOswgTDqus/0.jpg)](https://www.youtube.com/watch?v=ivOswgTDqus)
